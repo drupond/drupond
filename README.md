@@ -79,18 +79,7 @@ Dev Tools
 </tr>
 </table>
 <br>
-📊 GitHub Stats
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Drupond&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drupond&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE"/>
-</div>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Drupond&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE"/>
-</div>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Drupond&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=22D3EE"/>
-</div>
-<br><br>
+
 🌐 Connect With Me
 <div align="center">
 <a href="https://github.com/Drupond" target="_blank">
@@ -101,15 +90,4 @@ Dev Tools
 </a>
 </div>
 <br>
-🐍 Contribution Snake Game
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Drupond/Drupond/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Drupond/Drupond/output/github-contribution-grid-snake.svg" />
-<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Drupond/Drupond/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-</div>
-<br>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06b6d4,100:0f172a&section=footer" width="100%" />
-</div>
+
