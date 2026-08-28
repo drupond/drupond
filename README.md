@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:155e75,100:06b6d4&text=Faiz%20Maurits&fontColor=ffffff&fontSize=44&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:155e75,100:06b6d4&text=Divo%20Endrul%20Pratama&fontColor=ffffff&fontSize=44&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+Node.js+%7C+JavaScript;Building+Real+Projects%2C+Not+Just+Tutorials" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=faizmauritsdev&label=Profile%20Views&color=22D3EE&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/faizmauritsdev?label=Followers&style=for-the-badge&color=22D3EE&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Joined&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffaizmauritsdev&color=22D3EE" />
+<img src="https://komarev.com/ghpvc/?username=Drupond&label=Profile%20Views&color=22D3EE&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Drupond?label=Followers&style=for-the-badge&color=22D3EE&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Joined&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDrupond&color=22D3EE" />
 
 <br><br>
 
@@ -52,99 +52,64 @@ const divo = {
   goal: "Building impactful and scalable applications"
 };
 ```
-
-- 💻 Passionate about Full Stack Development
-- 🚀 Building modern web applications and digital solutions
-- 🌱 Continuously learning new technologies and software engineering practices
-- 🎯 Interested in Web Development, Backend Engineering, and System Design
-- ⚡ Turning ideas into real-world applications through code
-
+💻 Passionate about Full Stack Development
+🚀 Building modern web applications and digital solutions
+🌱 Continuously learning new technologies and software engineering practices
+🎯 Interested in Web Development, Backend Engineering, and System Design
+⚡ Turning ideas into real-world applications through code
 <br>
-
-## 🛠️ Tech Stack
-
+🛠️ Tech Stack
 <table>
 <tr>
 <td valign="top" width="33%">
-
 Languages
 <br>
 <img src="https://skillicons.dev/icons?i=js,php,python,html,css" />
-
 </td>
 <td valign="top" width="33%">
-
 Frameworks & Tools
 <br>
 <img src="https://skillicons.dev/icons?i=laravel,nodejs,bootstrap,tailwind" />
-
 </td>
 <td valign="top" width="33%">
-
 Dev Tools
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
-
 </td>
 </tr>
 </table>
-
 <br>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-
-
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=faizmauritsdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizmauritsdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Drupond&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drupond&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE"/>
 </div>
-
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizmauritsdev&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Drupond&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE"/>
 </div>
-
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizmauritsdev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=22D3EE"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Drupond&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=22D3EE"/>
 </div>
-
 <br><br>
-
-## 🌐 Connect With Me
-
+🌐 Connect With Me
 <div align="center">
-<a href="https://www.instagram.com/ffyz_isz" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://github.com/faizmauritsdev" target="_blank">
+<a href="https://github.com/Drupond" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="mailto:divoendrul@example.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </div>
-
 <br>
-
-<br>
-
-## 🐍 Contribution Snake Game
-
+🐍 Contribution Snake Game
 <div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faizmauritsdev/faizmauritsdev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faizmauritsdev/faizmauritsdev/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/faizmauritsdev/faizmauritsdev/output/github-contribution-grid-snake.svg" width="100%" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Drupond/Drupond/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Drupond/Drupond/output/github-contribution-grid-snake.svg" />
+<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Drupond/Drupond/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
-
 </div>
-
 <br>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06b6d4,100:0f172a&section=footer" width="100%" />
 </div>
